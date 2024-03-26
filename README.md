@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/d6b5d2eaa8aa3917c5a1a1f47af3658d1ca088a46b460ac1c61eb43a4753e199/68747470733a2f2f656d74657269612e636f6d2f68732d66732f68756266732f656d74657269615f696d616765732f686f6d652f416e64726f69642d686561642d7573652d63617365732e776562703f77696474683d383030266865696768743d343837266e616d653d416e64726f69642d686561642d7573652d63617365732e77656270)
 <h1 align="center">Hi 👋, I'm Metin Mürteza</h1>
-<h3 align="center">A passionate Android developer from North Macedonia</h3>
+<h3 align="center">An Android developer from North Macedonia</h3>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CF1010&title_bg=%23E8EF03&icon=mercedes.svg&icon_color=%23010101&title=Metin&edge_flat=false"   align="center"/></a>
 
