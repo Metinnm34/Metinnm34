@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java,Kotlin**
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin,Java**
 
 - 📫 How to reach me **metinmurtezaa@gmail.com**
 
